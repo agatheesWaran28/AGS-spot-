@@ -1,0 +1,37 @@
+
+*{
+    background-color: rgb(129, 183, 189);
+}
+#w1{
+    color: blue;
+    padding-right: 37.5%;
+ }
+ #w2{
+     padding-right: 28.7%;
+ }
+ #w3 button{
+     border-radius: 40%;
+     border-bottom: 10px;
+     bottom: 10px;
+ }
+.c1{
+    height: 300px;
+}
+#s1 {
+    padding: 0;
+    align-content: flex-start;
+    width: 25%;
+}
+#s1 input{
+    width: 98%;
+    height: 25px;
+}
+#s2{
+    width: 60%;
+    padding: 0;
+    align-content: flex-start;
+}
+#s3{
+    width: 15cm;
+    align-content: flex-start;
+}
